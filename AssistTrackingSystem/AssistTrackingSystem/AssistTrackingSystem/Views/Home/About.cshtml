@@ -1,0 +1,79 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+
+<h2>AssestLocationSetup</h2>
+<div class="container-fluid">
+    <div class="form-horizontal">
+        <div class="row">
+            <div>
+                <div class="form-group">
+                    <div class="col-md-4">
+                        @Html.Label("Orgation", "Orgation", new { @class = "control-label", @style = "text-align:center" })
+                    </div>
+                    @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                    <div class="col-md-8">
+                        <select class="form-control" id="StudentGender" name="StudentGender">
+                            <option>Select Orgation</option>
+                            <option>BITM</option>
+                            <option>BASIS</option>
+                        </select>
+                    </div>
+                </div>
+                @*this is first group*@
+
+                <div class="form-group">
+                    <div class="col-md-4">
+                        @Html.Label("Brance", "Brance", new { @class = "control-label", @style = "text-align:center" })
+                    </div>
+                    @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                    <div class="col-md-8">
+                        <select class="form-control" id="BranceList" name="BranceList">
+                            <option>Select Brance</option>
+                            <option>BITM</option>
+                            <option>BASIS</option>
+                        </select>
+                    </div>
+                </div>
+                @*this is second group*@
+
+                <div class="form-group">
+                    <div class="col-md-4">
+                        @Html.Label("Name", "Name", new { @class = "control-label", @style = "text-align:center" })
+                    </div>
+                    @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                    <div class="col-md-8">
+                        <select class="form-control" id="NameList" name="NameList">
+                            <option>Select Name</option>
+                            <option>BITM</option>
+                            <option>BASIS</option>
+                        </select>
+                    </div>
+                </div>
+                @*this is third group*@
+
+                <div class="form-group">
+                    <div class="col-md-4">
+                        @Html.Label("ShortName", "Short Name", new {@class = "control-label", @style = "text-align:right"})
+                    </div>
+                    @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                    <div class="col-md-8">
+                        @*@Html.TextBoxFor(m => m.Name, null, new { @class = "form-control", PlaceHolder = "Name", data_id = Model.Id })*@
+                        @Html.TextBox("ShortNameTextBox", null, new {@class = "form-control", placeholder = "Short Name", @style = "size: 59px"})
+                    </div>
+                </div>
+                @*this is fourth group*@
+
+                <div class="form-group">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-2">
+                        <input class="btn btn-md btn-success btn-block" type="submit" value="Save">
+                    </div>
+                    <div class="col-md-6"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

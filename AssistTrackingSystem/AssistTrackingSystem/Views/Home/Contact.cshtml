@@ -1,0 +1,104 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<div class="container-fluid">
+    <div class="form-horizontal">
+        <div class="row">
+            <div>
+                <div class="form-group">
+                    <div class="col-md-4">
+                        @Html.Label("Name", "Name", new { @class = "control-label", @style = "text-align:center" })
+                    </div>
+                    @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                    <div class="col-md-8">
+                        @*@Html.TextBoxFor(m => m.Name, null, new { @class = "form-control", PlaceHolder = "Name", data_id = Model.Id })*@
+                        @Html.TextBox("NameTextBox", null, new { @class = "form-control", placeholder = "Name", @style = "size: 59px" })
+                    </div>
+                </div>
+                @*this is first group*@
+
+                <div class="form-group">
+                    <div class="col-md-4">
+                        @Html.Label("ShortName", "Short Name", new { @class = "control-label", @style = "text-align:right" })
+                    </div>
+                    @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                    <div class="col-md-8">
+                        @*@Html.TextBoxFor(m => m.Name, null, new { @class = "form-control", PlaceHolder = "Name", data_id = Model.Id })*@
+                        @Html.TextBox("ShortNameTextBox", null, new { @class = "form-control", placeholder = "Short Name", @style = "size: 59px" })
+                    </div>
+                </div>
+                @*this is second group*@
+
+                <div class="form-group">
+                    <div class="col-md-4">
+                        @Html.Label("Location", "Location", new { @class = "control-label", @style = "text-align:center" })
+                    </div>
+                    @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                    <div class="col-md-8">
+                        @*@Html.TextBoxFor(m => m.Name, null, new { @class = "form-control", PlaceHolder = "Name", data_id = Model.Id })*@
+                        @Html.TextArea("LocationTextBox", null, new { @class = "form-control", placeholder = "Location", @style = "size: 59px" })
+                    </div>
+                </div>
+                @*this is third group*@
+
+                <div class="form-group">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-2">
+                        <input class="btn btn-md btn-success btn-block" type="submit" value="Save">
+                    </div>
+                    <div class="col-md-6"></div>
+                </div>
+            </div>
+            <div>
+                <div class="form-group">
+                    <div class="col-md-4">
+                        @Html.Label("Orgation", "Orgation", new { @class = "control-label", @style = "text-align:center" })
+                    </div>
+                    @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                    <div class="col-md-8">
+                        <select class="form-control" id="StudentGender" name="StudentGender">
+                            <option>Select Orgation</option>
+                            <option>BITM</option>
+                            <option>BASIS</option>
+                        </select>
+                    </div>
+                </div>
+                @*this is first group*@
+
+                <div class="form-group">
+                    <div class="col-md-4">
+                        @Html.Label("BranceName", "Brance Name", new { @class = "control-label", @style = "text-align:right" })
+                    </div>
+                    @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                    <div class="col-md-8">
+                        @*@Html.TextBoxFor(m => m.Name, null, new { @class = "form-control", PlaceHolder = "Name", data_id = Model.Id })*@
+                        @Html.TextBox("BranceNameTextBox", null, new { @class = "form-control", placeholder = "Brance Name", @style = "size: 59px" })
+                    </div>
+                </div>
+                @*this is second group*@
+
+                <div class="form-group">
+                    <div class="col-md-4">
+                        @Html.Label("ShortName", "Short Name", new { @class = "control-label", @style = "text-align:center" })
+                    </div>
+                    @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                    <div class="col-md-8">
+                        @*@Html.TextBoxFor(m => m.Name, null, new { @class = "form-control", PlaceHolder = "Name", data_id = Model.Id })*@
+                        @Html.TextBox("ShortNameTextBox", null, new { @class = "form-control", placeholder = "Short Name", @style = "size: 59px" })
+                    </div>
+                </div>
+                @*this is third group*@
+
+                <div class="form-group">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-2">
+                        <input class="btn btn-md btn-success btn-block" type="submit" value="Save">
+                    </div>
+                    <div class="col-md-6"></div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>

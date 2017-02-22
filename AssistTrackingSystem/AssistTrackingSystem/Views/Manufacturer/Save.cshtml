@@ -1,0 +1,72 @@
+﻿@model dynamic
+
+@{
+    ViewBag.Title = "ManufacturerSetup";
+    //Layout = "_Layout";
+}
+
+<h2>title</h2>
+
+<div class="container-fluid">
+    <div class="form-horizontal">
+        <div class="row">
+            <div class="panel panel-success">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Manufacturer Setup</h3>
+                </div>
+
+                <div class="panel-body">
+                    <div>
+                        <div class="form-group">
+                            <div class="col-md-2"></div>
+                            <div class="col-md-2">
+                                @Html.Label("Name", "Name", new { @class = "control-label" })
+                            </div>
+                            @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                            <div class="col-md-4">
+                                @*@Html.TextBoxFor(m => m.Name, null, new { @class = "form-control", PlaceHolder = "Name", data_id = Model.Id })*@
+                                @Html.TextBox("NameTextBox", null, new { @class = "form-control", placeholder = "Name" })
+                            </div><div class="col-md-4"></div>
+                        </div>
+                        @*this is First group*@
+
+                        <div class="form-group">
+                            <div class="col-md-2"></div>
+                            <div class="col-md-2">
+                                @Html.Label("Code", "Code", new { @class = "control-label" })
+                            </div>
+                            @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                            <div class="col-md-4">
+                                @*@Html.TextBoxFor(m => m.Name, null, new { @class = "form-control", PlaceHolder = "Name", data_id = Model.Id })*@
+                                @Html.TextBox("CodeTextBox", null, new { @class = "form-control", placeholder = "Code" })
+                            </div>
+                            <div class="col-md-4"></div>
+                        </div>
+                        @*this is second group*@
+                        
+                        <div class="form-group">
+                            <div class="col-md-2"></div>
+                            <div class="col-md-2">
+                                @Html.Label("Description", "Desciption", new { @class = "control-label", @style = "text-align:center" })
+                            </div>
+                            @*@Html.LabelFor(m => m.Name, "Name", new { @class = "col-md-4 control-label", @style = "text-align:center" })*@
+                            <div class="col-md-4">
+                                @*@Html.TextBoxFor(m => m.Name, null, new { @class = "form-control", PlaceHolder = "Name", data_id = Model.Id })*@
+                                @Html.TextArea("DescriptionTextBox", null, new { @class = "form-control", placeholder = "Description", @style = "size: 59px" })
+                            </div><div class="col-md-4"></div>
+                        </div>
+                        @*this is third group*@
+                            <div class="form-group">
+                                <div class="col-md-4"></div>
+                                <div class="col-md-2">
+                                    <input class="btn btn-md btn-success btn-block" type="submit" value="Save">
+                                </div>
+                                <div class="col-md-6"></div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,164 @@
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\ApplicationInsights.config
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\csc.exe
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\System.Collections.Immutable.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\System.Reflection.Metadata.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\vbc.exe
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\VBCSCompiler.exe
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\VBCSCompiler.exe.config
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\AssistTrackingSystem.dll.config
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\AssistTrackingSystem.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\AssistTrackingSystem.pdb
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Antlr3.Runtime.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\EntityFramework.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\EntityFramework.SqlServer.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.DependencyCollector.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.Web.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.WindowsServer.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.ApplicationInsights.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Newtonsoft.Json.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Owin.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Helpers.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Mvc.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Optimization.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Razor.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.Deployment.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.Razor.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\WebGrease.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.DependencyCollector.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.Web.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.WindowsServer.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.ApplicationInsights.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Helpers.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Mvc.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Optimization.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Razor.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.Deployment.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.Razor.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Antlr3.Runtime.pdb
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Newtonsoft.Json.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\EntityFramework.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\EntityFramework.SqlServer.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\obj\Debug\AssistTrackingSystem.csprojResolveAssemblyReference.cache
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\obj\Debug\AssistTrackingSystem.dll
+G:\Training\Assest Tracking System\AssistTrackingSystem\AssistTrackingSystem\obj\Debug\AssistTrackingSystem.pdb
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\ApplicationInsights.config
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\csc.exe
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\vbc.exe
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\VBCSCompiler.exe
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\AssistTrackingSystem.dll.config
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\AssistTrackingSystem.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\AssistTrackingSystem.pdb
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Antlr3.Runtime.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\EntityFramework.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\EntityFramework.SqlServer.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.Web.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.ApplicationInsights.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Newtonsoft.Json.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Owin.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Helpers.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Mvc.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Optimization.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Razor.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.Deployment.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.Razor.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\WebGrease.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.Web.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.ApplicationInsights.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Helpers.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Mvc.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Optimization.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.Razor.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.Deployment.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\System.Web.WebPages.Razor.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Antlr3.Runtime.pdb
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Newtonsoft.Json.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\EntityFramework.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\EntityFramework.SqlServer.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\obj\Debug\AssistTrackingSystem.csprojResolveAssemblyReference.cache
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\obj\Debug\AssistTrackingSystem.dll
+E:\Mainak\Project\AssistTrackingSystem\AssistTrackingSystem\AssistTrackingSystem\obj\Debug\AssistTrackingSystem.pdb
